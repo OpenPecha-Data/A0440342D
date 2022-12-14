@@ -1,0 +1,20 @@
+id: A0440342D
+title: Toh_846-Threefold_Invocation_Ritual-v2
+type: translation
+pechas:
+- IB22304C6
+- I4997B9D4
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-100-001
+  eft-text-version: 1.1.7 2020
+  title: Toh_846-Threefold_Invocation_Ritual-v2
+alignment_to_base:
+  IB22304C6/B854: 9BE7
+  I4997B9D4/8753: 9BE7
